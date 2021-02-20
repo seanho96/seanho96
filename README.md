@@ -9,7 +9,7 @@
 - :zap: Fun facts: ESFJ. Speaks English, Malay, Mandarin and Hokkien.
 - :book: Currently reading: A Man by Keiichiro Hirano
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanho96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanho96&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seanho96&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seanho96&show_icons=true&theme=graywhite)
 
