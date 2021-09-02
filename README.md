@@ -7,7 +7,7 @@
 -->
 - :musical_note: Always listening to lofi or chillhop beats
 - :zap: Fun facts: ESFJ. Speaks English, Malay, Mandarin and Hokkien.
-- :book: Currently reading: A Man by Keiichiro Hirano
+- :book: Currently reading: The Promise of a Pencil by Adam Braun
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanho96&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
