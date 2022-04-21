@@ -2,12 +2,23 @@
 [![Github](https://img.shields.io/github/followers/seanho96?label=Follow&style=social)](https://github.com/seanho96)
 
 ### Some Things About Me: 👋
-<!--
-- 🌱 Currently learning about Typescript & Tailwind
--->
+- 🌱 Currently learning about Blockchain & Vue
 - :musical_note: Always listening to lofi or chillhop beats
 - :zap: Fun facts: ESFJ. Speaks English, Malay, Mandarin and Hokkien.
-- :book: Currently reading: The Promise of a Pencil by Adam Braun
+- :book: Currently reading: The Wisdom Of Sundays by Oprah Winfrey
+
+### This week I spent my time on <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="32">
+
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   15 hrs 31 mins  ███████████████████████░░   91.68 %
+SCSS         1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+```
+
+<!--END_SECTION:waka-->
+
+### Some stats 📊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanho96&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
