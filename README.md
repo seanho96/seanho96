@@ -25,5 +25,5 @@ SCSS         13 mins         ▓░░░░░░░░░░░░░░░░
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanho96&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seanho96&show_icons=true&theme=graywhite)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seanho96&show_icons=true&theme=graywhite)-->
 
