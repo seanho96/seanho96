@@ -12,11 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js        1 hr 1 min      █████████▓░░░░░░░░░░░░░░░   38.93 %
-SCSS          1 hr            █████████▓░░░░░░░░░░░░░░░   38.57 %
-TypeScript    30 mins         █████░░░░░░░░░░░░░░░░░░░░   19.57 %
-YAML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-CSS           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
