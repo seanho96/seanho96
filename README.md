@@ -12,7 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs          █████████████████████████   100.00 %
+Vue.js       10 mins         ███████████████░░░░░░░░░░   59.42 %
+TypeScript   7 mins          ██████████░░░░░░░░░░░░░░░   39.87 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
